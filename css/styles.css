@@ -26,7 +26,9 @@ body {
 }
 
 .contact-address-link:hover,
-.contact-address-link:focus {
+.contact-address-link:focus,
+.footer-contact-accent:hover,
+.footer-contact-accent:focus {
   color: #2196f3;
 }
 
@@ -70,19 +72,24 @@ body {
 
 /* ============= SECTION 1 ============= */
 
+.hero {
+  background-color: #2f303a;
+}
+
 .hero-title {
   font-weight: 900;
   font-size: 44px;
   line-height: 1.36;
   text-transform: uppercase;
-  /* color: #FFFFFF; */
+  color: #ffffff;
 }
 
 .hero-btn {
   font-weight: 700;
   font-size: 16px;
   line-height: 1.9;
-  /* color: #ffffff; */
+  background-color: #2196f3;
+  color: #ffffff;
 }
 /* ============= /SECTION 1 ============= */
 
@@ -145,6 +152,12 @@ body {
   line-height: 1.6;
 }
 
+.portfolio-title-btn:hover,
+.portfolio-title-btn:focus {
+  background-color: #2196f3;
+  color: #ffffff;
+}
+
 .name-technology {
   font-weight: 700;
   font-size: 18px;
@@ -161,17 +174,20 @@ body {
 
 /* ============= FOOTER ============= */
 
+.page-footer {
+  background-color: #2f303a;
+}
+
 .contact-address-link {
   font-family: "Roboto", sans-serif;
   font-style: normal;
   font-weight: 400;
   font-size: 14px;
   line-height: 1.71;
-  color: #212121;
-  /* color: #FFFFFF; */
+  color: #ffffff;
 }
 
 .footer-contact-accent {
-  /* color: rgba(255, 255, 255, 0.6); */
+  color: rgba(255, 255, 255, 0.6);
 }
 /* ============= /FOOTER ============= */
