@@ -1,0 +1,177 @@
+.link {
+  text-decoration: none;
+}
+
+.list {
+  list-style: none;
+}
+
+body {
+  font-family: "Roboto", sans-serif;
+  font-style: normal;
+  font-weight: 400;
+  color: #212121;
+}
+
+/* ============= COMPONENTS ============= */
+
+.menu-link:hover,
+.menu-link:focus {
+  color: #2196f3;
+}
+
+.contact-link:hover,
+.contact-link:focus {
+  color: #2196f3;
+}
+
+.contact-address-link:hover,
+.contact-address-link:focus {
+  color: #2196f3;
+}
+
+.btn {
+  cursor: pointer;
+}
+
+/* ============= /COMPONENTS ============= */
+
+/* ============= HEADER ============= */
+
+.logo {
+  font-family: "Raleway";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 26px;
+  line-height: 1.19;
+  letter-spacing: 0.03em;
+  color: #000000;
+}
+.logo-accent {
+  color: #2196f3;
+}
+
+.menu-link {
+  font-weight: 500;
+  font-size: 14px;
+  line-height: 1.14;
+  letter-spacing: 0.02em;
+  color: #212121;
+}
+.contact-link {
+  font-weight: 500;
+  font-size: 14px;
+  line-height: 1.14;
+  letter-spacing: 0.02em;
+  color: #757575;
+}
+
+/* ============= /HEADER ============= */
+
+/* ============= SECTION 1 ============= */
+
+.hero-title {
+  font-weight: 900;
+  font-size: 44px;
+  line-height: 1.36;
+  text-transform: uppercase;
+  /* color: #FFFFFF; */
+}
+
+.hero-btn {
+  font-weight: 700;
+  font-size: 16px;
+  line-height: 1.9;
+  /* color: #ffffff; */
+}
+/* ============= /SECTION 1 ============= */
+
+/* ============= SECTION 2 ============= */
+
+.title-peculiarities {
+  font-weight: 700;
+  font-size: 14px;
+  line-height: 1.14;
+  text-transform: uppercase;
+}
+
+.description-peculiarities {
+  font-size: 14px;
+  line-height: 1.7;
+  color: #757575;
+}
+
+/* ============= /SECTION 2 ============= */
+
+/* ============= SECTION 3 ============= */
+
+.title-about {
+  font-weight: 700;
+  font-size: 36px;
+  line-height: 1.17;
+}
+
+/* ============= /SECTION 3 ============= */
+
+/* ============= SECTION 4 ============= */
+
+.title-our-team {
+  font-weight: 700;
+  font-size: 36px;
+  line-height: 1.17;
+}
+
+.employees-name {
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 1.19;
+}
+
+.employees-position {
+  font-size: 16px;
+  line-height: 1.19;
+  color: #757575;
+}
+
+/* ============= /SECTION 4 ============= */
+
+/* ============= SECTION PORTFOLIO ============= */
+
+.portfolio-title-btn {
+  font-family: "Roboto", sans-serif;
+  font-style: normal;
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 1.6;
+}
+
+.name-technology {
+  font-weight: 700;
+  font-size: 18px;
+  line-height: 2;
+}
+
+.technology {
+  font-size: 16px;
+  line-height: 1.9;
+  color: #757575;
+}
+
+/* ============= /SECTION PORTFOLIO ============= */
+
+/* ============= FOOTER ============= */
+
+.contact-address-link {
+  font-family: "Roboto", sans-serif;
+  font-style: normal;
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 1.71;
+  color: #212121;
+  /* color: #FFFFFF; */
+}
+
+.footer-contact-accent {
+  /* color: rgba(255, 255, 255, 0.6); */
+}
+/* ============= /FOOTER ============= */
