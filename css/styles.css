@@ -178,6 +178,16 @@ body {
   background-color: #2f303a;
 }
 
+.logo-footer {
+  font-family: "Raleway";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 26px;
+  line-height: 1.19;
+  letter-spacing: 0.03em;
+  color: #ffffff;
+}
+
 .contact-address-link {
   font-family: "Roboto", sans-serif;
   font-style: normal;
